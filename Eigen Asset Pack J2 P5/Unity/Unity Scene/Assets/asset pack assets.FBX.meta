@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 5e2b017a2f7ac674f88053ab9ccd0180
+timeCreated: 1510055895
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Board
+    100004: Box003
+    100006: Box005
+    100008: Box008
+    100010: Box011
+    100012: Box014
+    100014: Box022
+    100016: Box024
+    100018: Box025
+    100020: Box026
+    100022: Box027
+    100024: Box028
+    100026: Box029
+    100028: Box030
+    100030: Box031
+    100032: Box032
+    100034: Box033
+    100036: Crystals
+    100038: Crystals001
+    100040: Dome
+    100042: Drill Frame
+    100044: Drill Head
+    100046: Drill Top
+    100048: Fence 2
+    100050: Fence1
+    100052: Fence_Post
+    100054: GeoSphere008
+    100056: GeoSphere009
+    100058: GeoSphere011
+    100060: GeoSphere012
+    100062: Lamp
+    100064: Lamp001
+    100066: Lamp_Post
+    100068: Lamp_Post001
+    100070: Lil_rock1
+    100072: Lil_rock2
+    100074: Lil_rock3
+    100076: Lil_rock4
+    100078: Lil_rock5
+    100080: Lil_rock6
+    100082: MineCart
+    100084: MineWheel
+    100086: MineWheel005
+    100088: MineWheel006
+    100090: MineWheel2
+    100092: MineWheel3
+    100094: MineWheel4
+    100096: Particle View 001
+    100098: Pickaxe
+    100100: Rock stairs
+    100102: Rock006
+    100104: Rock008
+    100106: Rock010
+    100108: Rock011
+    100110: Rock012
+    100112: Rock013
+    100114: Rock014
+    100116: Rock015
+    100118: Rock016
+    100120: Rock017
+    100122: Rock3
+    100124: Skyland
+    100126: Stalagmite 1
+    100128: stalagmite 2
+    100130: Stalagmite 2 bend
+    100132: Stalagmite 3
+    100134: Stalagmite 4
+    100136: Stalagmite 5
+    100138: Stalagmite 6
+    100140: Track_Bend_Down
+    100142: Track_Bend_Up
+    100144: Track_straight
+    400000: //RootNode
+    400002: Board
+    400004: Box003
+    400006: Box005
+    400008: Box008
+    400010: Box011
+    400012: Box014
+    400014: Box022
+    400016: Box024
+    400018: Box025
+    400020: Box026
+    400022: Box027
+    400024: Box028
+    400026: Box029
+    400028: Box030
+    400030: Box031
+    400032: Box032
+    400034: Box033
+    400036: Crystals
+    400038: Crystals001
+    400040: Dome
+    400042: Drill Frame
+    400044: Drill Head
+    400046: Drill Top
+    400048: Fence 2
+    400050: Fence1
+    400052: Fence_Post
+    400054: GeoSphere008
+    400056: GeoSphere009
+    400058: GeoSphere011
+    400060: GeoSphere012
+    400062: Lamp
+    400064: Lamp001
+    400066: Lamp_Post
+    400068: Lamp_Post001
+    400070: Lil_rock1
+    400072: Lil_rock2
+    400074: Lil_rock3
+    400076: Lil_rock4
+    400078: Lil_rock5
+    400080: Lil_rock6
+    400082: MineCart
+    400084: MineWheel
+    400086: MineWheel005
+    400088: MineWheel006
+    400090: MineWheel2
+    400092: MineWheel3
+    400094: MineWheel4
+    400096: Particle View 001
+    400098: Pickaxe
+    400100: Rock stairs
+    400102: Rock006
+    400104: Rock008
+    400106: Rock010
+    400108: Rock011
+    400110: Rock012
+    400112: Rock013
+    400114: Rock014
+    400116: Rock015
+    400118: Rock016
+    400120: Rock017
+    400122: Rock3
+    400124: Skyland
+    400126: Stalagmite 1
+    400128: stalagmite 2
+    400130: Stalagmite 2 bend
+    400132: Stalagmite 3
+    400134: Stalagmite 4
+    400136: Stalagmite 5
+    400138: Stalagmite 6
+    400140: Track_Bend_Down
+    400142: Track_Bend_Up
+    400144: Track_straight
+    2300000: Board
+    2300002: Box003
+    2300004: Box005
+    2300006: Box008
+    2300008: Box011
+    2300010: Box014
+    2300012: Box022
+    2300014: Box024
+    2300016: Box025
+    2300018: Box026
+    2300020: Box028
+    2300022: Box029
+    2300024: Box030
+    2300026: Box031
+    2300028: Box032
+    2300030: Box033
+    2300032: Crystals
+    2300034: Crystals001
+    2300036: Dome
+    2300038: Drill Frame
+    2300040: Drill Head
+    2300042: Drill Top
+    2300044: Fence 2
+    2300046: Fence1
+    2300048: Fence_Post
+    2300050: GeoSphere008
+    2300052: GeoSphere009
+    2300054: GeoSphere011
+    2300056: GeoSphere012
+    2300058: Lamp
+    2300060: Lamp001
+    2300062: Lamp_Post
+    2300064: Lamp_Post001
+    2300066: Lil_rock1
+    2300068: Lil_rock2
+    2300070: Lil_rock3
+    2300072: Lil_rock4
+    2300074: Lil_rock5
+    2300076: Lil_rock6
+    2300078: MineCart
+    2300080: MineWheel
+    2300082: MineWheel005
+    2300084: MineWheel006
+    2300086: MineWheel2
+    2300088: MineWheel3
+    2300090: MineWheel4
+    2300092: Pickaxe
+    2300094: Rock stairs
+    2300096: Rock006
+    2300098: Rock008
+    2300100: Rock010
+    2300102: Rock011
+    2300104: Rock012
+    2300106: Rock013
+    2300108: Rock014
+    2300110: Rock015
+    2300112: Rock016
+    2300114: Rock017
+    2300116: Rock3
+    2300118: Skyland
+    2300120: Stalagmite 1
+    2300122: stalagmite 2
+    2300124: Stalagmite 2 bend
+    2300126: Stalagmite 3
+    2300128: Stalagmite 4
+    2300130: Stalagmite 5
+    2300132: Stalagmite 6
+    2300134: Track_Bend_Down
+    2300136: Track_Bend_Up
+    2300138: Track_straight
+    3300000: Board
+    3300002: Box003
+    3300004: Box005
+    3300006: Box008
+    3300008: Box011
+    3300010: Box014
+    3300012: Box022
+    3300014: Box024
+    3300016: Box025
+    3300018: Box026
+    3300020: Box028
+    3300022: Box029
+    3300024: Box030
+    3300026: Box031
+    3300028: Box032
+    3300030: Box033
+    3300032: Crystals
+    3300034: Crystals001
+    3300036: Dome
+    3300038: Drill Frame
+    3300040: Drill Head
+    3300042: Drill Top
+    3300044: Fence 2
+    3300046: Fence1
+    3300048: Fence_Post
+    3300050: GeoSphere008
+    3300052: GeoSphere009
+    3300054: GeoSphere011
+    3300056: GeoSphere012
+    3300058: Lamp
+    3300060: Lamp001
+    3300062: Lamp_Post
+    3300064: Lamp_Post001
+    3300066: Lil_rock1
+    3300068: Lil_rock2
+    3300070: Lil_rock3
+    3300072: Lil_rock4
+    3300074: Lil_rock5
+    3300076: Lil_rock6
+    3300078: MineCart
+    3300080: MineWheel
+    3300082: MineWheel005
+    3300084: MineWheel006
+    3300086: MineWheel2
+    3300088: MineWheel3
+    3300090: MineWheel4
+    3300092: Pickaxe
+    3300094: Rock stairs
+    3300096: Rock006
+    3300098: Rock008
+    3300100: Rock010
+    3300102: Rock011
+    3300104: Rock012
+    3300106: Rock013
+    3300108: Rock014
+    3300110: Rock015
+    3300112: Rock016
+    3300114: Rock017
+    3300116: Rock3
+    3300118: Skyland
+    3300120: Stalagmite 1
+    3300122: stalagmite 2
+    3300124: Stalagmite 2 bend
+    3300126: Stalagmite 3
+    3300128: Stalagmite 4
+    3300130: Stalagmite 5
+    3300132: Stalagmite 6
+    3300134: Track_Bend_Down
+    3300136: Track_Bend_Up
+    3300138: Track_straight
+    4300000: Track_straight
+    4300002: Track_Bend_Down
+    4300004: Track_Bend_Up
+    4300006: Lamp
+    4300008: Lamp_Post
+    4300010: Crystals
+    4300012: MineCart
+    4300014: Lil_rock1
+    4300016: Rock stairs
+    4300018: Skyland
+    4300020: Crystals001
+    4300022: Rock3
+    4300024: Board
+    4300026: Pickaxe
+    4300028: Drill Head
+    4300030: Drill Frame
+    4300032: Drill Top
+    4300034: Dome
+    4300036: Rock006
+    4300038: Rock008
+    4300040: Rock010
+    4300042: Rock011
+    4300044: Rock012
+    4300046: Rock013
+    4300048: Rock014
+    4300050: Rock015
+    4300052: Rock016
+    4300054: Rock017
+    4300056: Lamp001
+    4300058: Lamp_Post001
+    4300060: Stalagmite 5
+    4300062: Stalagmite 1
+    4300064: Stalagmite 3
+    4300066: stalagmite 2
+    4300068: Stalagmite 4
+    4300070: Stalagmite 6
+    4300072: Stalagmite 2 bend
+    4300074: Fence1
+    4300076: Fence_Post
+    4300078: Fence 2
+    4300080: Box003
+    4300082: Box005
+    4300084: Box008
+    4300086: Box011
+    4300088: Box014
+    4300090: Box022
+    4300092: Box024
+    4300094: Box025
+    4300096: Box026
+    4300098: Box028
+    4300100: Box029
+    4300102: Box030
+    4300104: Box031
+    4300106: Box032
+    4300108: Box033
+    4300110: GeoSphere008
+    4300112: GeoSphere009
+    4300114: GeoSphere011
+    4300116: GeoSphere012
+    4300118: Lil_rock2
+    4300120: Lil_rock3
+    4300122: Lil_rock4
+    4300124: Lil_rock5
+    4300126: Lil_rock6
+    4300128: MineWheel3
+    4300130: MineWheel2
+    4300132: MineWheel
+    4300134: MineWheel4
+    4300136: MineWheel005
+    4300138: MineWheel006
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
